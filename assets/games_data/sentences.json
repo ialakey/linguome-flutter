@@ -1,0 +1,1132 @@
+[
+  {
+    "sentence": "The ___ is a majestic creature known for its strength and grace.",
+    "options": ["lion", "tiger", "elephant", "cheetah"],
+    "correctAnswer": "lion"
+  },
+  {
+    "sentence": "She has a deep ___ for classical music, often attending concerts and recitals.",
+    "options": ["love", "hate", "passion", "interest"],
+    "correctAnswer": "passion"
+  },
+  {
+    "sentence": "The ___ of the mountain range creates a barrier between the two regions.",
+    "options": ["valley", "ridge", "plateau", "canyon"],
+    "correctAnswer": "ridge"
+  },
+  {
+    "sentence": "He was filled with ___ when he received the news of his promotion at work.",
+    "options": ["joy", "sorrow", "anger", "fear"],
+    "correctAnswer": "joy"
+  },
+  {
+    "sentence": "The ___ of the ancient ruins fascinated the archaeologists.",
+    "options": ["beauty", "mystery", "history", "culture"],
+    "correctAnswer": "mystery"
+  },
+  {
+    "sentence": "She is fluent in several ___ languages, including Spanish, French, and German.",
+    "options": ["foreign", "native", "official", "regional"],
+    "correctAnswer": "foreign"
+  },
+  {
+    "sentence": "The doctor prescribed a ___ of antibiotics to treat the infection.",
+    "options": ["dose", "treatment", "medicine", "therapy"],
+    "correctAnswer": "dose"
+  },
+  {
+    "sentence": "The company's new advertising campaign aims to ___ its brand image.",
+    "options": ["enhance", "reduce", "destroy", "maintain"],
+    "correctAnswer": "enhance"
+  },
+  {
+    "sentence": "His ___ appearance often made people underestimate his intelligence.",
+    "options": ["shabby", "elegant", "casual", "formal"],
+    "correctAnswer": "shabby"
+  },
+  {
+    "sentence": "I'm looking for a new ___ to live.",
+    "options": ["apartment", "house", "room", "flat"],
+    "correctAnswer": "apartment"
+  },
+  {
+    "sentence": "She was afraid of the dark, so she always slept with a night ___ on.",
+    "options": ["lamp", "light", "bulb", "candle"],
+    "correctAnswer": "light"
+  },
+  {
+    "sentence": "The ___ of the restaurant was cozy and inviting.",
+    "options": ["ambiance", "menu", "service", "chef"],
+    "correctAnswer": "ambiance"
+  },
+  {
+    "sentence": "The weather forecast predicts ___ showers later in the day.",
+    "options": ["light", "heavy", "rain", "snow"],
+    "correctAnswer": "light"
+  },
+  {
+    "sentence": "He always carries a ___ of water with him to stay hydrated.",
+    "options": ["bottle", "cup", "glass", "jug"],
+    "correctAnswer": "bottle"
+  },
+  {
+    "sentence": "My grandmother's ___ is always filled with delicious treats.",
+    "options": ["pantry", "kitchen", "fridge", "cupboard"],
+    "correctAnswer": "pantry"
+  },
+  {
+    "sentence": "The ___ of the movie was so realistic that it felt like we were in the jungle.",
+    "options": ["soundtrack", "visuals", "dialogue", "costumes"],
+    "correctAnswer": "visuals"
+  },
+  {
+    "sentence": "She put on her favorite ___ and danced around the room.",
+    "options": ["song", "melody", "tune", "music"],
+    "correctAnswer": "music"
+  },
+  {
+    "sentence": "I need to buy a new ___ for my bike because the old one is worn out.",
+    "options": ["tire", "wheel", "seat", "pedal"],
+    "correctAnswer": "tire"
+  },
+  {
+    "sentence": "The ___ in the park is covered with colorful flowers in the spring.",
+    "options": ["garden", "lawn", "field", "path"],
+    "correctAnswer": "garden"
+  },
+  {
+    "sentence": "She wears glasses because she has ___ vision.",
+    "options": ["blurry", "clear", "sharp", "foggy"],
+    "correctAnswer": "blurry"
+  },
+  {
+    "sentence": "We went on a ___ trip to the mountains last weekend.",
+    "options": ["camping", "hiking", "fishing", "picnic"],
+    "correctAnswer": "camping"
+  },
+  {
+    "sentence": "The ___ of the new smartphone is impressive, with a high-resolution screen and fast processor.",
+    "options": ["performance", "design", "camera", "battery"],
+    "correctAnswer": "performance"
+  },
+  {
+    "sentence": "I always carry a ___ of tissues in my bag in case I need them.",
+    "options": ["pack", "box", "bundle", "roll"],
+    "correctAnswer": "pack"
+  },
+  {
+    "sentence": "The ___ of the song was so catchy that I couldn't stop humming it all day.",
+    "options": ["melody", "lyrics", "beat", "rhythm"],
+    "correctAnswer": "melody"
+  },
+  {
+    "sentence": "He has a ___ for playing the guitar, and he practices every day to get better.",
+    "options": ["talent", "skill", "hobby", "passion"],
+    "correctAnswer": "talent"
+  },
+  {
+    "sentence": "We need to buy some ___ for the picnic: bread, cheese, and fruit.",
+    "options": ["snacks", "groceries", "ingredients", "supplies"],
+    "correctAnswer": "groceries"
+  },
+  {
+    "sentence": "The ___ of the mountain range was breathtaking.",
+    "options": ["view", "landscape", "horizon", "scenery"],
+    "correctAnswer": "view"
+  },
+  {
+    "sentence": "She has a ___ for languages and can speak four fluently.",
+    "options": ["knack", "gift", "aptitude", "talent"],
+    "correctAnswer": "knack"
+  },
+  {
+    "sentence": "I need to buy a new ___ because my old one broke.",
+    "options": ["phone", "computer", "tablet", "laptop"],
+    "correctAnswer": "laptop"
+  },
+  {
+    "sentence": "The ___ of the movie was so intense that I couldn't look away.",
+    "options": ["action", "comedy", "drama", "horror"],
+    "correctAnswer": "action"
+  },
+  {
+    "sentence": "She always carries a ___ of sunscreen when she goes to the beach.",
+    "options": ["bottle", "tube", "spray", "container"],
+    "correctAnswer": "tube"
+  },
+  {
+    "sentence": "The ___ of the city skyline at night is breathtaking.",
+    "options": ["view", "vista", "scenery", "panorama"],
+    "correctAnswer": "view"
+  },
+  {
+    "sentence": "He has a ___ for photography and takes beautiful pictures.",
+    "options": ["passion", "talent", "hobby", "skill"],
+    "correctAnswer": "talent"
+  },
+  {
+    "sentence": "We need to buy some ___ for the barbecue: burgers, hot dogs, and vegetables.",
+    "options": ["ingredients", "groceries", "supplies", "food"],
+    "correctAnswer": "ingredients"
+  },
+  {
+    "sentence": "The ___ of the crime scene was investigated by the police.",
+    "options": ["evidence", "clue", "suspect", "witness"],
+    "correctAnswer": "evidence"
+  },
+  {
+    "sentence": "She has a ___ for fashion and always wears the latest trends.",
+    "options": ["passion", "love", "knack", "talent"],
+    "correctAnswer": "knack"
+  },
+  {
+    "sentence": "The ___ of the mountain made it difficult to climb.",
+    "options": ["height", "altitude", "peak", "summit"],
+    "correctAnswer": "altitude"
+  },
+  {
+    "sentence": "He always carries a ___ of water with him to stay hydrated.",
+    "options": ["bottle", "flask", "jug", "container"],
+    "correctAnswer": "bottle"
+  },
+  {
+    "sentence": "The ___ of the new restaurant is modern and stylish.",
+    "options": ["decor", "interior", "design", "ambiance"],
+    "correctAnswer": "decor"
+  },
+  {
+    "sentence": "The ___ of the flowers in the garden was delightful.",
+    "options": ["fragrance", "scent", "smell", "aroma"],
+    "correctAnswer": "fragrance"
+  },
+  {
+    "sentence": "She has a ___ for drawing and spends hours doodling in her sketchbook.",
+    "options": ["talent", "skill", "passion", "hobby"],
+    "correctAnswer": "passion"
+  },
+  {
+    "sentence": "The ___ of the music was so soothing that I fell asleep.",
+    "options": ["melody", "harmony", "rhythm", "beat"],
+    "correctAnswer": "melody"
+  },
+  {
+    "sentence": "The ___ of the storm forced us to cancel our outdoor plans.",
+    "options": ["severity", "intensity", "strength", "force"],
+    "correctAnswer": "intensity"
+  },
+  {
+    "sentence": "The ___ of the painting was beautifully detailed.",
+    "options": ["artwork", "painting", "canvas", "portrait"],
+    "correctAnswer": "artwork"
+  },
+  {
+    "sentence": "I need to buy a new ___ for my bike because the old one is worn out.",
+    "options": ["tire", "wheel", "seat", "pedal"],
+    "correctAnswer": "tire"
+  },
+  {
+    "sentence": "The ___ of the movie was so realistic that it felt like we were in the jungle.",
+    "options": ["visuals", "graphics", "effects", "images"],
+    "correctAnswer": "visuals"
+  },
+  {
+    "sentence": "The ___ of the new smartphone is impressive, with a high-resolution screen and fast processor.",
+    "options": ["performance", "speed", "efficiency", "capability"],
+    "correctAnswer": "performance"
+  },
+  {
+    "sentence": "I'm looking for a new ___ to live.",
+    "options": ["apartment", "house", "room", "flat"],
+    "correctAnswer": "apartment"
+  },
+  {
+    "sentence": "She was afraid of the dark, so she always slept with a night ___ on.",
+    "options": ["lamp", "light", "bulb", "candle"],
+    "correctAnswer": "light"
+  },
+  {
+    "sentence": "The ___ of the restaurant was cozy and inviting.",
+    "options": ["ambiance", "atmosphere", "environment", "vibe"],
+    "correctAnswer": "ambiance"
+  },
+  {
+    "sentence": "The weather forecast predicts ___ showers later in the day.",
+    "options": ["light", "heavy", "moderate", "gentle"],
+    "correctAnswer": "light"
+  },
+  {
+    "sentence": "He always carries a ___ of water with him to stay hydrated.",
+    "options": ["bottle", "flask", "canteen", "container"],
+    "correctAnswer": "bottle"
+  },
+  {
+    "sentence": "My grandmother's ___ is always filled with delicious treats.",
+    "options": ["pantry", "cupboard", "kitchen", "larder"],
+    "correctAnswer": "pantry"
+  },
+  {
+    "sentence": "The ___ of the movie was so realistic that it felt like we were in the jungle.",
+    "options": ["visuals", "effects", "scenes", "images"],
+    "correctAnswer": "visuals"
+  },
+  {
+    "sentence": "She put on her favorite ___ and danced around the room.",
+    "options": ["music", "song", "tune", "melody"],
+    "correctAnswer": "music"
+  },
+  {
+    "sentence": "I need to buy a new ___ for my bike because the old one is worn out.",
+    "options": ["tire", "wheel", "tyre", "rim"],
+    "correctAnswer": "tire"
+  },
+  {
+    "sentence": "The ___ of the story was unexpected and left everyone surprised.",
+    "options": ["twist", "turn", "plot", "climax"],
+    "correctAnswer": "twist"
+  },
+  {
+    "sentence": "She keeps her jewelry in a ___ on her dresser.",
+    "options": ["box", "case", "container", "drawer"],
+    "correctAnswer": "box"
+  },
+  {
+    "sentence": "The ___ of the party was lively and energetic.",
+    "options": ["atmosphere", "ambiance", "mood", "vibe"],
+    "correctAnswer": "atmosphere"
+  },
+  {
+    "sentence": "The ___ of the mountain was challenging, but the view from the top was worth it.",
+    "options": ["climb", "ascent", "hike", "trek"],
+    "correctAnswer": "climb"
+  },
+  {
+    "sentence": "She has a ___ for languages and can speak five fluently.",
+    "options": ["knack", "talent", "gift", "aptitude"],
+    "correctAnswer": "knack"
+  },
+  {
+    "sentence": "The ___ of the movie theater was comfortable, with reclining seats and cup holders.",
+    "options": ["seating", "chairs", "seats", "auditorium"],
+    "correctAnswer": "seating"
+  },
+  {
+    "sentence": "I'm learning to play the piano, and I practice every day to improve my ___.",
+    "options": ["skills", "technique", "talent", "ability"],
+    "correctAnswer": "technique"
+  },
+  {
+    "sentence": "The ___ of the museum was fascinating, with exhibits from different time periods.",
+    "options": ["collection", "exhibition", "display", "gallery"],
+    "correctAnswer": "collection"
+  },
+  {
+    "sentence": "The ___ of the painting was breathtaking, with vibrant colors and intricate details.",
+    "options": ["beauty", "artwork", "masterpiece", "painting"],
+    "correctAnswer": "beauty"
+  },
+  {
+    "sentence": "He always carries a ___ of snacks in his backpack when he goes hiking.",
+    "options": ["supply", "stash", "stock", "selection"],
+    "correctAnswer": "supply"
+  },
+  {
+    "sentence": "I'm looking for a new ___ to live.",
+    "options": ["apartment", "house", "room", "flat"],
+    "correctAnswer": "apartment"
+  },
+  {
+    "sentence": "She was afraid of the dark, so she always slept with a night ___ on.",
+    "options": ["lamp", "light", "bulb", "candle"],
+    "correctAnswer": "light"
+  },
+  {
+    "sentence": "The ___ of the restaurant was cozy and inviting.",
+    "options": ["ambiance", "atmosphere", "environment", "vibe"],
+    "correctAnswer": "ambiance"
+  },
+  {
+    "sentence": "The weather forecast predicts ___ showers later in the day.",
+    "options": ["light", "heavy", "moderate", "gentle"],
+    "correctAnswer": "light"
+  },
+  {
+    "sentence": "He always carries a ___ of water with him to stay hydrated.",
+    "options": ["bottle", "flask", "canteen", "container"],
+    "correctAnswer": "bottle"
+  },
+  {
+    "sentence": "My grandmother's ___ is always filled with delicious treats.",
+    "options": ["pantry", "cupboard", "kitchen", "larder"],
+    "correctAnswer": "pantry"
+  },
+  {
+    "sentence": "The ___ of the movie was so realistic that it felt like we were in the jungle.",
+    "options": ["visuals", "effects", "scenes", "images"],
+    "correctAnswer": "visuals"
+  },
+  {
+    "sentence": "She put on her favorite ___ and danced around the room.",
+    "options": ["music", "song", "tune", "melody"],
+    "correctAnswer": "music"
+  },
+  {
+    "sentence": "I need to buy a new ___ for my bike because the old one is worn out.",
+    "options": ["tire", "wheel", "tyre", "rim"],
+    "correctAnswer": "tire"
+  },
+  {
+    "sentence": "The ___ of the story was unexpected and left everyone surprised.",
+    "options": ["twist", "turn", "plot", "climax"],
+    "correctAnswer": "twist"
+  },
+  {
+    "sentence": "She keeps her jewelry in a ___ on her dresser.",
+    "options": ["box", "case", "container", "drawer"],
+    "correctAnswer": "box"
+  },
+  {
+    "sentence": "The ___ of the party was lively and energetic.",
+    "options": ["atmosphere", "ambiance", "mood", "vibe"],
+    "correctAnswer": "atmosphere"
+  },
+  {
+    "sentence": "The ___ of the mountain was challenging, but the view from the top was worth it.",
+    "options": ["climb", "ascent", "hike", "trek"],
+    "correctAnswer": "climb"
+  },
+  {
+    "sentence": "She has a ___ for languages and can speak five fluently.",
+    "options": ["knack", "talent", "gift", "aptitude"],
+    "correctAnswer": "knack"
+  },
+  {
+    "sentence": "The ___ of the movie theater was comfortable, with reclining seats and cup holders.",
+    "options": ["seating", "chairs", "seats", "auditorium"],
+    "correctAnswer": "seating"
+  },
+  {
+    "sentence": "I'm learning to play the piano, and I practice every day to improve my ___.",
+    "options": ["skills", "technique", "talent", "ability"],
+    "correctAnswer": "technique"
+  },
+  {
+    "sentence": "The ___ of the museum was fascinating, with exhibits from different time periods.",
+    "options": ["collection", "exhibition", "display", "gallery"],
+    "correctAnswer": "collection"
+  },
+  {
+    "sentence": "The ___ of the painting was breathtaking, with vibrant colors and intricate details.",
+    "options": ["beauty", "artwork", "masterpiece", "painting"],
+    "correctAnswer": "beauty"
+  },
+  {
+    "sentence": "He always carries a ___ of snacks in his backpack when he goes hiking.",
+    "options": ["supply", "stash", "stock", "selection"],
+    "correctAnswer": "supply"
+  },
+  {
+    "sentence": "The ___ of the play was so compelling that I couldn't look away.",
+    "options": ["performance", "acting", "drama", "show"],
+    "correctAnswer": "performance"
+  },
+  {
+    "sentence": "She has a ___ for writing and has published several books.",
+    "options": ["passion", "talent", "knack", "skill"],
+    "correctAnswer": "passion"
+  },
+  {
+    "sentence": "The ___ of the artwork was stunning, with intricate details and vibrant colors.",
+    "options": ["beauty", "artistry", "craftsmanship", "creation"],
+    "correctAnswer": "artistry"
+  },
+  {
+    "sentence": "I need to buy a new ___ for my car because the old one is worn out.",
+    "options": ["tire", "wheel", "tyre", "rim"],
+    "correctAnswer": "tire"
+  },
+  {
+    "sentence": "The ___ of the movie was heartwarming, with a touching story and memorable characters.",
+    "options": ["emotions", "feeling", "sentiment", "heart"],
+    "correctAnswer": "emotion"
+  },
+  {
+    "sentence": "She always had a ___ smile on her face, no matter the circumstances.",
+    "options": ["joyful", "happiness", "happy", "joy"],
+    "correctAnswer": "joyful"
+  },
+  {
+    "sentence": "His ___ for adventure led him to explore the farthest corners of the earth.",
+    "options": ["passion", "desire", "love", "enthusiasm"],
+    "correctAnswer": "passion"
+  },
+  {
+    "sentence": "The ___ in the room was palpable as they awaited the results.",
+    "options": ["tension", "stress", "anxiety", "pressure"],
+    "correctAnswer": "tension"
+  },
+  {
+    "sentence": "Their friendship was built on a foundation of trust and ___.",
+    "options": ["loyalty", "honesty", "integrity", "sincerity"],
+    "correctAnswer": "loyalty"
+  },
+  {
+    "sentence": "The ___ beauty of the landscape took his breath away.",
+    "options": ["majestic", "gorgeous", "beautiful", "stunning"],
+    "correctAnswer": "majestic"
+  },
+  {
+    "sentence": "His ___ remarks often left others feeling offended.",
+    "options": ["sarcastic", "ironic", "satirical", "witty"],
+    "correctAnswer": "sarcastic"
+  },
+  {
+    "sentence": "Their victory was a testament to their ___ and perseverance.",
+    "options": ["determination", "dedication", "commitment", "resolve"],
+    "correctAnswer": "determination"
+  },
+  {
+    "sentence": "She could feel the ___ of his gaze even from across the room.",
+    "options": ["intensity", "passion", "heat", "fire"],
+    "correctAnswer": "intensity"
+  },
+  {
+    "sentence": "His ___ demeanor often made it difficult to discern his true feelings.",
+    "options": ["stoic", "reserved", "calm", "composed"],
+    "correctAnswer": "stoic"
+  },
+  {
+    "sentence": "The ___ of the concert left the audience in awe.",
+    "options": ["music", "performance", "show", "event"],
+    "correctAnswer": "performance"
+  },
+  {
+    "sentence": "Her ___ for learning knew no bounds; she was always seeking new knowledge.",
+    "options": ["thirst", "passion", "desire", "hunger"],
+    "correctAnswer": "thirst"
+  },
+  {
+    "sentence": "The ___ of the old library filled the air with a sense of nostalgia.",
+    "options": ["scent", "aroma", "fragrance", "smell"],
+    "correctAnswer": "scent"
+  },
+  {
+    "sentence": "His ___ for adventure led him to explore distant lands.",
+    "options": ["yearning", "urge", "longing", "craving"],
+    "correctAnswer": "yearning"
+  },
+  {
+    "sentence": "The ___ of the sunrise painted the sky with vibrant colors.",
+    "options": ["glow", "light", "shine", "radiance"],
+    "correctAnswer": "radiance"
+  },
+  {
+    "sentence": "His ___ for justice drove him to fight for the rights of others.",
+    "options": ["passion", "zeal", "commitment", "dedication"],
+    "correctAnswer": "zeal"
+  },
+  {
+    "sentence": "The ___ of the forest was filled with the chirping of birds and rustling of leaves.",
+    "options": ["ambiance", "atmosphere", "environment", "mood"],
+    "correctAnswer": "ambiance"
+  },
+  {
+    "sentence": "Her ___ for success pushed her to work hard and never give up.",
+    "options": ["determination", "drive", "ambition", "motivation"],
+    "correctAnswer": "ambition"
+  },
+  {
+    "sentence": "The ___ of the mountain air rejuvenated his spirits.",
+    "options": ["freshness", "purity", "cleanliness", "clarity"],
+    "correctAnswer": "freshness"
+  },
+  {
+    "sentence": "The ___ of her voice captivated everyone in the room.",
+    "options": ["melody", "harmony", "rhythm", "tune"],
+    "correctAnswer": "melody"
+  },
+  {
+    "sentence": "The ___ of his intellect was evident in his eloquent speeches.",
+    "options": ["profundity", "depth", "sophistication", "breadth"],
+    "correctAnswer": "profundity"
+  },
+  {
+    "sentence": "Her ___ of language allowed her to effortlessly navigate complex texts.",
+    "options": ["mastery", "command", "expertise", "fluency"],
+    "correctAnswer": "mastery"
+  },
+  {
+    "sentence": "The ___ of his analysis revealed insights that had eluded others.",
+    "options": ["precision", "clarity", "rigor", "thoroughness"],
+    "correctAnswer": "precision"
+  },
+  {
+    "sentence": "His ___ of the subject was unparalleled, earning him international recognition.",
+    "options": ["prowess", "acumen", "competence", "expertise"],
+    "correctAnswer": "acumen"
+  },
+  {
+    "sentence": "The ___ of his argument left no room for doubt.",
+    "options": ["force", "power", "strength", "potency"],
+    "correctAnswer": "force"
+  },
+  {
+    "sentence": "Her ___ of the topic was demonstrated through her groundbreaking research.",
+    "options": ["grasp", "comprehension", "understanding", "insight"],
+    "correctAnswer": "grasp"
+  },
+  {
+    "sentence": "The ___ of his reasoning persuaded even the most skeptical critics.",
+    "options": ["logic", "rationality", "reason", "soundness"],
+    "correctAnswer": "soundness"
+  },
+  {
+    "sentence": "His ___ of the field was reflected in his innovative contributions.",
+    "options": ["pioneer", "leader", "trailblazer", "innovator"],
+    "correctAnswer": "pioneer"
+  },
+  {
+    "sentence": "The ___ of her prose captivated readers around the world.",
+    "options": ["eloquence", "beauty", "grace", "elegance"],
+    "correctAnswer": "eloquence"
+  },
+  {
+    "sentence": "His ___ of the language allowed him to write with unparalleled precision.",
+    "options": ["command", "mastery", "fluency", "proficiency"],
+    "correctAnswer": "command"
+  },
+  {
+    "sentence": "The ___ of his voice resonated throughout the auditorium.",
+    "options": ["power", "strength", "volume", "intensity"],
+    "correctAnswer": "power"
+  },
+  {
+    "sentence": "Her ___ of the subject was evident in her insightful analysis.",
+    "options": ["mastery", "expertise", "proficiency", "competence"],
+    "correctAnswer": "proficiency"
+  },
+  {
+    "sentence": "The ___ of the novel lies in its exploration of human nature.",
+    "options": ["essence", "core", "heart", "crux"],
+    "correctAnswer": "essence"
+  },
+  {
+    "sentence": "His ___ of the situation allowed him to make informed decisions.",
+    "options": ["understanding", "comprehension", "grasp", "awareness"],
+    "correctAnswer": "understanding"
+  },
+  {
+    "sentence": "The ___ of her argument was weakened by contradictory evidence.",
+    "options": ["validity", "credibility", "soundness", "reliability"],
+    "correctAnswer": "validity"
+  },
+  {
+    "sentence": "Her ___ of the topic was evident from her detailed explanation.",
+    "options": ["knowledge", "expertise", "proficiency", "competence"],
+    "correctAnswer": "knowledge"
+  },
+  {
+    "sentence": "The ___ of his analysis shed light on the underlying issues.",
+    "options": ["depth", "breadth", "scope", "range"],
+    "correctAnswer": "depth"
+  },
+  {
+    "sentence": "The ___ of his personality made him well-suited for leadership.",
+    "options": ["nature", "character", "essence", "personality"],
+    "correctAnswer": "nature"
+  },
+  {
+    "sentence": "His ___ of the language allowed him to communicate effectively.",
+    "options": ["proficiency", "fluency", "competence", "mastery"],
+    "correctAnswer": "fluency"
+  },
+  {
+    "sentence": "The ___ of her writing style captivated readers of all ages.",
+    "options": ["charm", "appeal", "style", "quality"],
+    "correctAnswer": "charm"
+  },
+  {
+    "sentence": "The ___ of his ideas challenged conventional thinking.",
+    "options": ["novelty", "originality", "creativity", "innovation"],
+    "correctAnswer": "originality"
+  },
+  {
+    "sentence": "The ___ of his approach led to unexpected results.",
+    "options": ["uniqueness", "peculiarity", "distinctiveness", "singularity"],
+    "correctAnswer": "uniqueness"
+  },
+  {
+    "sentence": "The ___ of the problem required a comprehensive solution.",
+    "options": ["complexity", "difficulty", "challenge", "problem"],
+    "correctAnswer": "complexity"
+  },
+  {
+    "sentence": "Her ___ of the subject allowed her to excel in her studies.",
+    "options": ["proficiency", "expertise", "mastery", "competence"],
+    "correctAnswer": "expertise"
+  },
+  {
+    "sentence": "The ___ of his talent was recognized by critics worldwide.",
+    "options": ["extent", "range", "scope", "magnitude"],
+    "correctAnswer": "magnitude"
+  },
+  {
+    "sentence": "The ___ of his commitment was evident in his dedication to the cause.",
+    "options": ["depth", "strength", "intensity", "power"],
+    "correctAnswer": "intensity"
+  },
+  {
+    "sentence": "His ___ of the issue led to a deeper understanding among participants.",
+    "options": ["examination", "investigation", "analysis", "study"],
+    "correctAnswer": "analysis"
+  },
+  {
+    "sentence": "The ___ of the story lies in its message about perseverance.",
+    "options": ["meaning", "essence", "significance", "importance"],
+    "correctAnswer": "essence"
+  },
+  {
+    "sentence": "Her ___ of the poem allowed her to appreciate its beauty.",
+    "options": ["interpretation", "understanding", "comprehension", "analysis"],
+    "correctAnswer": "interpretation"
+  },
+  {
+    "sentence": "The ___ of his argument was supported by compelling evidence.",
+    "options": ["validity", "credibility", "soundness", "reliability"],
+    "correctAnswer": "validity"
+  },
+  {
+    "sentence": "His ___ of the subject was demonstrated through his insightful comments.",
+    "options": ["knowledge", "expertise", "proficiency", "competence"],
+    "correctAnswer": "knowledge"
+  },
+  {
+    "sentence": "The ___ of his analysis provided valuable insights into the problem.",
+    "options": ["depth", "breadth", "scope", "range"],
+    "correctAnswer": "depth"
+  },
+  {
+    "sentence": "The ___ of her personality made her a natural leader.",
+    "options": ["nature", "character", "essence", "personality"],
+    "correctAnswer": "character"
+  },
+  {
+    "sentence": "His ___ of the language allowed him to communicate effectively.",
+    "options": ["proficiency", "fluency", "competence", "mastery"],
+    "correctAnswer": "fluency"
+  },
+  {
+    "sentence": "The ___ of her writing style appealed to readers of all ages.",
+    "options": ["charm", "appeal", "style", "quality"],
+    "correctAnswer": "style"
+  },
+  {
+    "sentence": "The ___ of his ideas challenged traditional thinking.",
+    "options": ["novelty", "originality", "creativity", "innovation"],
+    "correctAnswer": "creativity"
+  },
+  {
+    "sentence": "The ___ of his approach led to innovative solutions.",
+    "options": ["uniqueness", "peculiarity", "distinctiveness", "singularity"],
+    "correctAnswer": "uniqueness"
+  },
+  {
+    "sentence": "The ___ of the problem required a systematic approach.",
+    "options": ["complexity", "difficulty", "challenge", "problem"],
+    "correctAnswer": "complexity"
+  },
+  {
+    "sentence": "Her ___ of the subject was evident in her detailed explanation.",
+    "options": ["proficiency", "expertise", "mastery", "competence"],
+    "correctAnswer": "expertise"
+  },
+  {
+    "sentence": "The ___ of his talent was recognized by experts in the field.",
+    "options": ["extent", "range", "scope", "magnitude"],
+    "correctAnswer": "magnitude"
+  },
+  {
+    "sentence": "The ___ of his commitment was evident in his dedication to the project.",
+    "options": ["depth", "strength", "intensity", "power"],
+    "correctAnswer": "intensity"
+  },
+  {
+    "sentence": "His ___ of the issue led to a productive discussion among team members.",
+    "options": ["examination", "investigation", "analysis", "study"],
+    "correctAnswer": "analysis"
+  },
+  {
+    "sentence": "The ___ of the problem was not immediately apparent.",
+    "options": ["nature", "complexity", "origin", "essence"],
+    "correctAnswer": "nature"
+  },
+  {
+    "sentence": "His ___ of the situation allowed him to respond effectively.",
+    "options": ["understanding", "appreciation", "realization", "comprehension"],
+    "correctAnswer": "understanding"
+  },
+  {
+    "sentence": "The ___ of his argument was questioned by critics.",
+    "options": ["validity", "legitimacy", "authenticity", "credibility"],
+    "correctAnswer": "validity"
+  },
+  {
+    "sentence": "Her ___ of the topic was evident in her presentation.",
+    "options": ["knowledge", "familiarity", "expertise", "proficiency"],
+    "correctAnswer": "familiarity"
+  },
+  {
+    "sentence": "The ___ of his analysis provided valuable insights.",
+    "options": ["depth", "height", "scope", "extent"],
+    "correctAnswer": "scope"
+  },
+  {
+    "sentence": "The ___ of his personality made him a memorable character.",
+    "options": ["nature", "disposition", "temperament", "character"],
+    "correctAnswer": "temperament"
+  },
+  {
+    "sentence": "His ___ of the language allowed him to communicate clearly.",
+    "options": ["fluency", "proficiency", "competence", "mastery"],
+    "correctAnswer": "competence"
+  },
+  {
+    "sentence": "The ___ of her writing style resonated with readers.",
+    "options": ["charm", "quality", "attractiveness", "appeal"],
+    "correctAnswer": "attractiveness"
+  },
+  {
+    "sentence": "The ___ of his ideas challenged conventional thinking.",
+    "options": ["novelty", "uniqueness", "originality", "innovation"],
+    "correctAnswer": "uniqueness"
+  },
+  {
+    "sentence": "The ___ of his approach led to unexpected results.",
+    "options": ["uniqueness", "novelty", "originality", "innovation"],
+    "correctAnswer": "novelty"
+  },
+  {
+    "sentence": "The ___ of the problem required a different perspective.",
+    "options": ["complexity", "difficulty", "challenge", "obstacle"],
+    "correctAnswer": "challenge"
+  },
+  {
+    "sentence": "Her ___ of the subject was demonstrated through her analysis.",
+    "options": ["proficiency", "expertise", "mastery", "competence"],
+    "correctAnswer": "competence"
+  },
+  {
+    "sentence": "The ___ of his talent was recognized by his peers.",
+    "options": ["extent", "range", "scope", "magnitude"],
+    "correctAnswer": "range"
+  },
+  {
+    "sentence": "The ___ of his commitment was evident in his actions.",
+    "options": ["depth", "intensity", "strength", "power"],
+    "correctAnswer": "intensity"
+  },
+  {
+    "sentence": "His ___ of the issue led to a productive discussion.",
+    "options": ["examination", "exploration", "investigation", "study"],
+    "correctAnswer": "exploration"
+  },
+  {
+    "sentence": "The ___ of the problem was difficult to understand.",
+    "options": ["origin", "nature", "essence", "root"],
+    "correctAnswer": "root"
+  },
+  {
+    "sentence": "Her ___ of the situation helped her make a decision.",
+    "options": ["comprehension", "understanding", "realization", "apprehension"],
+    "correctAnswer": "realization"
+  },
+  {
+    "sentence": "The ___ of his argument was questioned by his peers.",
+    "options": ["validity", "credibility", "authenticity", "legitimacy"],
+    "correctAnswer": "legitimacy"
+  },
+  {
+    "sentence": "His ___ of the topic was demonstrated in his presentation.",
+    "options": ["knowledge", "familiarity", "awareness", "expertise"],
+    "correctAnswer": "awareness"
+  },
+  {
+    "sentence": "The ___ of his analysis provided useful insights.",
+    "options": ["scope", "range", "extent", "depth"],
+    "correctAnswer": "extent"
+  },
+  {
+    "sentence": "The ___ of his personality made him a likable person.",
+    "options": ["nature", "disposition", "character", "temperament"],
+    "correctAnswer": "disposition"
+  },
+  {
+    "sentence": "His ___ of the language allowed him to communicate effectively.",
+    "options": ["fluency", "proficiency", "mastery", "competence"],
+    "correctAnswer": "proficiency"
+  },
+  {
+    "sentence": "The ___ of her writing style appealed to a wide audience.",
+    "options": ["charm", "appeal", "attractiveness", "quality"],
+    "correctAnswer": "attractiveness"
+  },
+  {
+    "sentence": "The ___ of his ideas challenged traditional thinking.",
+    "options": ["novelty", "originality", "creativity", "innovation"],
+    "correctAnswer": "novelty"
+  },
+  {
+    "sentence": "The ___ of his approach led to unexpected outcomes.",
+    "options": ["uniqueness", "singularity", "distinctiveness", "peculiarity"],
+    "correctAnswer": "distinctiveness"
+  },
+  {
+    "sentence": "The ___ of the problem required a creative solution.",
+    "options": ["difficulty", "challenge", "obstacle", "hurdle"],
+    "correctAnswer": "hurdle"
+  },
+  {
+    "sentence": "Her ___ of the subject was evident in her explanation.",
+    "options": ["expertise", "knowledge", "proficiency", "familiarity"],
+    "correctAnswer": "familiarity"
+  },
+  {
+    "sentence": "The ___ of his talent was acknowledged by his teacher.",
+    "options": ["extent", "range", "scope", "magnitude"],
+    "correctAnswer": "scope"
+  },
+  {
+    "sentence": "The ___ of his commitment was evident in his dedication.",
+    "options": ["depth", "intensity", "strength", "power"],
+    "correctAnswer": "power"
+  },
+  {
+    "sentence": "His ___ of the issue led to a constructive conversation.",
+    "options": ["exploration", "investigation", "analysis", "study"],
+    "correctAnswer": "exploration"
+  },
+  {
+    "sentence": "The ___ of the problem was easy to solve.",
+    "options": ["root", "origin", "nature", "essence"],
+    "correctAnswer": "root"
+  },
+  {
+    "sentence": "Her ___ of the situation helped her understand what to do.",
+    "options": ["realization", "comprehension", "understanding", "awareness"],
+    "correctAnswer": "awareness"
+  },
+  {
+    "sentence": "The ___ of his argument was supported by facts.",
+    "options": ["validity", "credibility", "authenticity", "legitimacy"],
+    "correctAnswer": "validity"
+  },
+  {
+    "sentence": "His ___ of the topic was limited, but he tried his best.",
+    "options": ["familiarity", "knowledge", "awareness", "expertise"],
+    "correctAnswer": "knowledge"
+  },
+  {
+    "sentence": "The ___ of his analysis was not very deep.",
+    "options": ["scope", "range", "extent", "depth"],
+    "correctAnswer": "extent"
+  },
+  {
+    "sentence": "The ___ of his personality made him a friendly person.",
+    "options": ["disposition", "nature", "character", "temperament"],
+    "correctAnswer": "disposition"
+  },
+  {
+    "sentence": "His ___ of the language allowed him to communicate basic ideas.",
+    "options": ["fluency", "proficiency", "mastery", "competence"],
+    "correctAnswer": "competence"
+  },
+  {
+    "sentence": "The ___ of her writing style appealed to her friends.",
+    "options": ["charm", "appeal", "attractiveness", "quality"],
+    "correctAnswer": "charm"
+  },
+  {
+    "sentence": "The ___ of his ideas were simple but effective.",
+    "options": ["novelty", "originality", "creativity", "innovation"],
+    "correctAnswer": "originality"
+  },
+  {
+    "sentence": "The ___ of his approach led to predictable results.",
+    "options": ["uniqueness", "singularity", "distinctiveness", "peculiarity"],
+    "correctAnswer": "singularity"
+  },
+  {
+    "sentence": "The ___ of the problem was not too difficult to overcome.",
+    "options": ["difficulty", "challenge", "obstacle", "hurdle"],
+    "correctAnswer": "difficulty"
+  },
+  {
+    "sentence": "Her ___ of the subject was basic, but she was eager to learn more.",
+    "options": ["expertise", "knowledge", "proficiency", "familiarity"],
+    "correctAnswer": "familiarity"
+  },
+  {
+    "sentence": "The ___ of his talent was obvious to everyone who knew him.",
+    "options": ["extent", "range", "scope", "magnitude"],
+    "correctAnswer": "extent"
+  },
+  {
+    "sentence": "The ___ of his commitment was clear from his actions.",
+    "options": ["depth", "intensity", "strength", "power"],
+    "correctAnswer": "strength"
+  },
+  {
+    "sentence": "His ___ of the issue was shallow, but he was interested in learning more.",
+    "options": ["exploration", "investigation", "analysis", "study"],
+    "correctAnswer": "exploration"
+  },
+  {
+    "sentence": "The ___ of the problem was simple to understand.",
+    "options": ["root", "origin", "nature", "essence"],
+    "correctAnswer": "origin"
+  },
+  {
+    "sentence": "Her ___ of the situation helped her realize what to do.",
+    "options": ["realization", "comprehension", "understanding", "awareness"],
+    "correctAnswer": "comprehension"
+  },
+  {
+    "sentence": "The ___ of his argument was supported by evidence.",
+    "options": ["validity", "credibility", "authenticity", "legitimacy"],
+    "correctAnswer": "credibility"
+  },
+  {
+    "sentence": "His ___ of the topic was limited, but he was eager to learn.",
+    "options": ["familiarity", "knowledge", "awareness", "expertise"],
+    "correctAnswer": "awareness"
+  },
+  {
+    "sentence": "The ___ of his analysis was not very deep.",
+    "options": ["scope", "range", "extent", "depth"],
+    "correctAnswer": "range"
+  },
+  {
+    "sentence": "The ___ of his personality made him a likable person.",
+    "options": ["disposition", "nature", "character", "temperament"],
+    "correctAnswer": "temperament"
+  },
+  {
+    "sentence": "His ___ of the language allowed him to communicate basic ideas.",
+    "options": ["fluency", "proficiency", "mastery", "competence"],
+    "correctAnswer": "fluency"
+  },
+  {
+    "sentence": "The ___ of her writing style appealed to her friends.",
+    "options": ["charm", "appeal", "attractiveness", "quality"],
+    "correctAnswer": "appeal"
+  },
+  {
+    "sentence": "The ___ of his ideas were simple but effective.",
+    "options": ["novelty", "originality", "creativity", "innovation"],
+    "correctAnswer": "creativity"
+  },
+  {
+    "sentence": "The ___ of his approach led to predictable results.",
+    "options": ["uniqueness", "singularity", "distinctiveness", "peculiarity"],
+    "correctAnswer": "uniqueness"
+  },
+  {
+    "sentence": "The ___ of the problem was not too difficult to overcome.",
+    "options": ["difficulty", "challenge", "obstacle", "hurdle"],
+    "correctAnswer": "obstacle"
+  },
+  {
+    "sentence": "Her ___ of the subject was basic, but she was eager to learn more.",
+    "options": ["expertise", "knowledge", "proficiency", "familiarity"],
+    "correctAnswer": "familiarity"
+  },
+  {
+    "sentence": "The ___ of his talent was obvious to everyone who knew him.",
+    "options": ["extent", "range", "scope", "magnitude"],
+    "correctAnswer": "extent"
+  },
+  {
+    "sentence": "The ___ of his commitment was clear from his actions.",
+    "options": ["depth", "intensity", "strength", "power"],
+    "correctAnswer": "depth"
+  },
+  {
+    "sentence": "His ___ of the issue was shallow, but he was interested in learning more.",
+    "options": ["exploration", "investigation", "analysis", "study"],
+    "correctAnswer": "investigation"
+  },
+  {
+    "sentence": "The ___ of the solution was unexpected but effective.",
+    "options": ["novelty", "innovation", "creativity", "originality"],
+    "correctAnswer": "innovation"
+  },
+  {
+    "sentence": "Her ___ of the problem provided a fresh perspective.",
+    "options": ["analysis", "investigation", "exploration", "examination"],
+    "correctAnswer": "examination"
+  },
+  {
+    "sentence": "The ___ of his reasoning was logical and well-structured.",
+    "options": ["coherence", "clarity", "rationality", "consistency"],
+    "correctAnswer": "rationality"
+  },
+  {
+    "sentence": "His ___ of the situation was comprehensive and insightful.",
+    "options": ["assessment", "evaluation", "appraisal", "analysis"],
+    "correctAnswer": "assessment"
+  },
+  {
+    "sentence": "The ___ of her solution was praised for its simplicity.",
+    "options": ["efficiency", "simplicity", "effectiveness", "practicality"],
+    "correctAnswer": "simplicity"
+  },
+  {
+    "sentence": "His ___ of the text revealed hidden meanings and themes.",
+    "options": ["interpretation", "understanding", "comprehension", "analysis"],
+    "correctAnswer": "interpretation"
+  },
+  {
+    "sentence": "The ___ of his performance exceeded all expectations.",
+    "options": ["quality", "excellence", "superiority", "mastery"],
+    "correctAnswer": "excellence"
+  },
+  {
+    "sentence": "Her ___ of the topic was evident from her detailed explanation.",
+    "options": ["familiarity", "proficiency", "expertise", "competence"],
+    "correctAnswer": "competence"
+  },
+  {
+    "sentence": "The ___ of his approach led to remarkable achievements.",
+    "options": ["success", "progress", "accomplishment", "achievement"],
+    "correctAnswer": "success"
+  },
+  {
+    "sentence": "The ___ of his arguments persuaded even the skeptics.",
+    "options": ["conviction", "persuasion", "influence", "impact"],
+    "correctAnswer": "persuasion"
+  },
+  {
+    "sentence": "His ___ of the theory provided valuable insights.",
+    "options": ["analysis", "examination", "study", "investigation"],
+    "correctAnswer": "study"
+  },
+  {
+    "sentence": "The ___ of his character was revealed in times of adversity.",
+    "options": ["integrity", "strength", "resilience", "character"],
+    "correctAnswer": "resilience"
+  },
+  {
+    "sentence": "Her ___ of the problem led to a breakthrough discovery.",
+    "options": ["insight", "understanding", "awareness", "knowledge"],
+    "correctAnswer": "insight"
+  },
+  {
+    "sentence": "The ___ of his approach revolutionized the industry.",
+    "options": ["innovation", "transformation", "revolution", "evolution"],
+    "correctAnswer": "revolution"
+  },
+  {
+    "sentence": "His ___ of the topic was unmatched by his peers.",
+    "options": ["knowledge", "expertise", "mastery", "proficiency"],
+    "correctAnswer": "mastery"
+  }
+]

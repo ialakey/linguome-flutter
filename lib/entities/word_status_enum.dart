@@ -1,0 +1,1 @@
+enum WordStatus { newWord, onStudy, know }

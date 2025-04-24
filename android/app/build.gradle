@@ -1,0 +1,84 @@
+plugins {
+    id "com.android.application"
+    id "kotlin-android"
+    id "dev.flutter.flutter-gradle-plugin"
+}
+
+def localProperties = new Properties()
+def localPropertiesFile = rootProject.file('local.properties')
+if (localPropertiesFile.exists()) {
+    localPropertiesFile.withReader('UTF-8') { reader ->
+        localProperties.load(reader)
+    }
+}
+
+def flutterVersionCode = localProperties.getProperty('flutter.versionCode')
+if (flutterVersionCode == null) {
+    flutterVersionCode = '1'
+}
+
+def flutterVersionName = localProperties.getProperty('flutter.versionName')
+if (flutterVersionName == null) {
+    flutterVersionName = '1.0'
+}
+
+android {
+    namespace "me.linguo.mobile"
+    compileSdkVersion 34
+    ndkVersion flutter.ndkVersion
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+
+    sourceSets {
+        main.java.srcDirs += 'src/main/kotlin'
+    }
+
+    defaultConfig {
+        applicationId "me.linguo.mobile"
+        minSdkVersion 21
+        targetSdkVersion flutter.targetSdkVersion
+        versionCode 1
+        versionName flutterVersionName
+    }
+
+    signingConfigs {
+        debug {
+            keyAlias 'key_alias_name'
+            keyPassword 'Z4YC0My6W4qgQ4vqYJDL'
+            storeFile file('linguome_flutter.jks')
+            storePassword 'Z4YC0My6W4qgQ4vqYJDL'
+        }
+        release {
+            keyAlias 'key_alias_name'
+            keyPassword 'Z4YC0My6W4qgQ4vqYJDL'
+            storeFile file('linguome_flutter.jks')
+            storePassword 'Z4YC0My6W4qgQ4vqYJDL'
+        }
+    }
+
+    buildTypes {
+        debug {
+            signingConfig signingConfigs.debug
+        }
+        release {
+            signingConfig signingConfigs.release
+        }
+    }
+
+    dependencies {
+        androidTestImplementation 'tools.fastlane:screengrab:2.1.1'
+    }
+}
+
+flutter {
+    source '../..'
+}
+
+dependencies {}

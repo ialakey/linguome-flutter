@@ -1,0 +1,13 @@
+default_platform(:android)
+
+platform :android do
+  desc "Run unit tests"
+  lane :run_unit_tests do
+    gradle(task: "test")
+  end
+
+  desc "Run UI tests"
+  lane :run_ui_tests do
+    gradle(task: "connectedAndroidTest")
+  end
+end
